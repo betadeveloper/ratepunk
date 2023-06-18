@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap');
+
+.main-section {
+  background-color: #f8cc5d;
+  display: flex;
+  justify-content: center;
+  padding: 64px 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.column {
+  margin: 0 10px;
+  max-width: 600px;
+}
